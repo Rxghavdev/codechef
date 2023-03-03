@@ -21,10 +21,13 @@ class Codechef
                 System.out.println("yes");
                 
             }
-            else{
+            else if{
             System.out.println("no");
 
             }
+            else{
+                System.out.println(null);
+            }                
 		}
 	}
 }
