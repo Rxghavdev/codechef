@@ -17,13 +17,12 @@ class Codechef
             //x is following
             //y is follower
             int Z= Y*10;
-            if(X>Z){
+            if(Z<X)
+            {
                 System.out.println("yes");
-                
             }
             else if{
             System.out.println("no");
-
             }
             else{
                 System.out.println(null);
