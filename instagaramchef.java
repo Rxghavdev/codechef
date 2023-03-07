@@ -16,7 +16,7 @@ class Codechef
 		    int Y=newScanner.nextInt();
             //x is following
             //y is follower
-            int Z= Y*10;
+            int Z= Y*20;
             if(Z<=X)
             {
                 System.out.println("yes");
